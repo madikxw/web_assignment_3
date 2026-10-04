@@ -14,7 +14,7 @@ Files: `task0.html`, `css/task0.css`
 
 Mobile:
 
-<img src="screenshots/image.png" alt="Task 0 Mobile" width="350">
+<img src="screenshots/image-1.png" alt="Task 0 Mobile" width="350">
 
 
 
@@ -25,7 +25,8 @@ Desktop:
 
 
 Mobile:
-<img src="screenshots/image-1.png" alt="Task 0 Mobile" width="350">
+<img src="screenshots/image.png" alt="Task 0 Mobile" width="350">
+
 
 
 
@@ -65,7 +66,7 @@ Desktop:
 
 Mobile (menu open):
 
-<img src="screenshots/image.png-3" alt="Task 0 Mobile" width="350">
+<img src="screenshots/image-3.png" alt="Task 0 Mobile" width="350">
 
 
 ---
@@ -78,7 +79,7 @@ Mobile (menu open):
 
 
 Mobile:
-<img src="screenshots/image.png-4" alt="Task 0 Mobile" width="350">
+<img src="screenshots/image-4.png" alt="Task 0 Mobile" width="350">
 Desktop:
 
 ![alt text](screenshots/image-9.png)
