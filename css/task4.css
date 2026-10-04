@@ -1,6 +1,7 @@
 
 
 .project-img {
+  height: 120px;
   border-radius: 8px;
 }
 .img-1 { background: rgb(86, 85, 85); }
@@ -10,7 +11,6 @@
 .sidebar { margin-top: 16px; }
 
 
-/* Visibility helpers */
 .mobile-only { display: block; }
 .tablet-up   { display: none; }
 .desktop-only { display: none; }
@@ -18,11 +18,11 @@
 
 @media (min-width: 768px) {
   body { font-size: 1rem; }
-  main { padding: 28px 0; }
+  main { padding: 28px; }
   .section-title { font-size: 1.7rem; margin-bottom: 16px; }
   .project-img { height: 150px; }
   .sidebar { margin-top: 24px; }
-  footer { padding: 18px 0; font-size: 0.95rem; }
+  footer { padding: 18px; font-size: 1rem; }
 
   .mobile-only { display: none; }
   .tablet-up   { display: block; }
@@ -31,12 +31,12 @@
 
 
 @media (min-width: 992px) {
-  body { font-size: 1.05rem; }
-  main { padding: 40px 0; }
+  body { font-size: 1.25rem; }
+  main { padding: 40px}
   .section-title { font-size: 2rem; margin-bottom: 20px; }
   .project-img { height: 170px; }
-  .sidebar { margin-top: 0; position: sticky; top: 20px; }
-  footer { padding: 24px 0; font-size: 1rem; }
+  .sidebar { margin-top: 0; }
+  footer { padding: 24px; font-size: 1.25rem; }
 
   .desktop-only { display: block; }
 }
