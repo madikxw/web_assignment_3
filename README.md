@@ -14,25 +14,25 @@ Files: `task0.html`, `css/task0.css`
 
 Mobile:
 
-![alt text](image.png)
+![alt text](screenshots/image.png)
 
 
 
 Desktop:
-![alt text](image-5.png)
+![alt text](screenshots/image-5.png)
 
 ### Task 1. Responsive Layout with Media Queries
 
 
 Mobile:
 
-![alt text](image-1.png)
+![alt text](screenshots/image-1.png)
 
 
 
 Desktop:
 
-![alt text](image-6.png)
+![alt text](screenshots/image-6.png)
 
 ---
 
@@ -44,13 +44,13 @@ Desktop:
 
 Mobile:
 
-![alt text](image-2.png)
+![alt text](screenshots/image-2.png)
 
 
 
 Desktop:
 
-![alt text](image-7.png)
+![alt text](screenshots/image-7.png)
 
 ### Task 3. Bootstrap Navigation Bar
 
@@ -58,7 +58,7 @@ Desktop:
 
 Desktop:
 
-![alt text](image-8.png)
+![alt text](screenshots/image-8.png)
 
 
 
@@ -66,7 +66,7 @@ Desktop:
 
 Mobile (menu open):
 
-![alt text](image-10.png)
+![alt text](screenshots/image-3.png)
 
 
 ---
@@ -79,11 +79,10 @@ Mobile (menu open):
 
 
 Mobile:
-
-![alt text](image-4.png)
+![alt text](screenshots/image-4.png)
 Desktop:
 
-![alt text](image-9.png)
+![alt text](screenshots/image-9.png)
 
 ---
 
