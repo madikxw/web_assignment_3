@@ -22,14 +22,13 @@ h1 { text-align: center; }
 .box-3 { background: #ff00b3; }
 
 
-/* Tablet: two boxes in a row (768px - 991px) */
+
 @media (min-width: 768px) and (max-width: 991px) {
   .container {
     grid-template-columns: 1fr ,1fr ;
   }
 }
 
-/* Desktop: three boxes side by side (992px and up) */
 @media (min-width: 992px) {
   .container {
     grid-template-columns: repeat(3,1fr);
