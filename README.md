@@ -10,7 +10,7 @@ name: Bissentayev madiyar
  Task 0. Responsive Typography
 
 
-Files: `task0.html`, `css/task0.css`
+
 
 Mobile:
 
